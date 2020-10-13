@@ -10,3 +10,8 @@ ziel dieser malware die auch menschen in den suizid treibt ist das den namen $an
 manipuliert
 
 malware die versucht immer noch einen straftatbestand einzubauen um z.B. mit "Persönlickeitsrecht" zenzur zu legitimieren. derjenige der das einklagt muss somit teil des terrornetzwerks sein
+
+
+dann ist das korrigiert wird auf dem endpoint irgendwie ssh zercybert, ohne
+dass man die blamming the user karte gegen mich sspielen könnte, es hat somit neben dem wifi noch andere funk hardware backdoors
+
