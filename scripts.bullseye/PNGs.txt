@@ -96,10 +96,12 @@
 ../cards/EN/methods/m157.svg
 ../cards/EN/methods/m112.svg
 ../cards/EN/methods/m48.svg
+../cards/EN/methods/m162.svg
 ../cards/EN/methods/m149.svg
 ../cards/EN/methods/m41.svg
 ../cards/EN/methods/m128.svg
 ../cards/EN/methods/m5.svg
+../cards/EN/methods/m163.svg
 ../cards/EN/methods/m87.svg
 ../cards/EN/methods/m140.svg
 ../cards/EN/methods/m38.svg
@@ -153,6 +155,7 @@
 ../cards/EN/methods/m86.svg
 ../cards/EN/methods/m130.svg
 ../cards/EN/methods/m53.svg
+../cards/EN/methods/m21b.svg
 ../cards/EN/methods/m84.svg
 ../cards/EN/methods/m28.svg
 ../cards/EN/methods/m126.svg
@@ -319,7 +322,9 @@
 ../cards/EN/socialEngineering/obfuscation/smoke1.svg
 ../cards/EN/socialEngineering/obfuscation/bo1.svg
 ../cards/EN/algorithms/a25.svg
+../cards/EN/algorithms/a26.svg
 ../cards/EN/algorithms/a24.svg
+../cards/EN/algorithms/a27b.svg
 ../cards/EN/algorithms/a8.svg
 ../cards/EN/algorithms/a19.svg
 ../cards/EN/algorithms/a2.svg
@@ -334,7 +339,7 @@
 ../cards/EN/algorithms/a3.svg
 ../cards/EN/algorithms/a11.svg
 ../cards/EN/algorithms/a7.svg
-../cards/EN/algorithms/a4-a13-a16b-a12-a3-a11-a7-a15.svg
+../cards/EN/algorithms/a27.svg
 ../cards/EN/algorithms/a15.svg
 ../cards/EN/algorithms/a14.svg
 ../cards/EN/algorithms/a21.svg
