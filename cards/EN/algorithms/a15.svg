@@ -50,9 +50,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1519444"
-     inkscape:cx="139.84252"
-     inkscape:cy="198.4252"
+     inkscape:zoom="6.0866179"
+     inkscape:cx="222.31171"
+     inkscape:cy="234.11229"
      inkscape:document-units="mm"
      inkscape:current-layer="layer24"
      showgrid="false"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1456,6 +1456,17 @@
            d="m 165.53624,518.17952 c -0.30566,-4.4745 -0.38138,-8.57208 -0.23159,-13.20115"
            style="fill:none;stroke:#000000;stroke-width:1.21382594;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1.53374815px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19171852"
+         x="49.879887"
+         y="39.515472"
+         id="text15111"><tspan
+           sodipodi:role="line"
+           id="tspan15109"
+           x="49.879887"
+           y="39.515472"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:slave;-inkscape-font-specification:slave;stroke-width:0.19171852">(1979)</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1501,7 +1512,7 @@
            id="tspan558"
            x="9.8077641"
            y="54.259716"
-           style="fill:#ffffff;stroke:#000000;stroke-width:0.06;stroke-miterlimit:4;stroke-dasharray:none">https://0x8.ch/HackersCardgame20</tspan></text>
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.06;stroke-miterlimit:4;stroke-dasharray:none">https://0x8.ch/HackersCardgame19</tspan></text>
     </g>
   </g>
   <g
