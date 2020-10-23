@@ -1,6 +1,1 @@
-../png/EN/m16.png
-../png/EN/m160.png
-../png/EN/m161.png
-../png/EN/m162.png
-../png/EN/m163.png
-../png/EN/m165.png
+../png/EN/t46.png
